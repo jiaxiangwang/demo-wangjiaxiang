@@ -1,7 +1,13 @@
 {
-  "name": "foxit-ui",
+  "name": "demo-wangjiaxiang2",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "this is a test",
+  "keywords": [
+    "demo"
+  ],
+  "author": "wangjiaxiang",
+  "main": "lib/index/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
